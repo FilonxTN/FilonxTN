@@ -36,9 +36,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FilonxTN&repo=FilonxTN&theme=dark" />
 </a>
 
-<a href="https://github.com/FilonxTN/Fun-with-DS-and-Algo">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FilonxTN&repo=Fun-with-DS-and-Algo&theme=dark" />
-</a>
 
 <br>
 <!--
