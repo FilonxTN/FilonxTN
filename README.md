@@ -151,3 +151,10 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=FilonxTN)
 
 -->
+
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=FilonxTN">
+</a>
+<a href="https://github.com/FilonxTN?tab=followers"><img src="https://img.shields.io/github/followers/FilonxTN?label=Followers&style=social" alt="GitHub Badge"></a>
+
