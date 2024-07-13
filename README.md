@@ -9,8 +9,6 @@
 
 - 🔭 I’m currently working on my FiveM Server [Second Life RP](https://discord.gg/aGgfKzP8Sv)
 
-- 🌱 I’m currently learning **Lua**
-
 - 📫 How to reach me **yassineb.daoudhsr@gmail.com**
 
 ### Blogs posts
